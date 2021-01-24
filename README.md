@@ -1,5 +1,18 @@
 # Open Aquarium
 
+## Table of Contents
+
+* [Projects](#projects)
+   * [open-aquarium.github.io](#open-aquarium.github.io)
+   * [open-aquarium](#open-aquarium)
+   * [open-aquarium-embedded](#open-aquarium-embedded)
+   * [open-aquarium-event-processor](#open-aquarium-event-processor)
+   * [open-aquarium-event-simulator](#open-aquarium-event-simulator)
+   * [open-aquarium-backend](#open-aquarium-backend)
+   * [open-aquarium-landing-page](#open-aquarium-landing-page)
+   * [open-aquarium-customer-facing](#open-aquarium-customer-facing)
+   * [open-aquarium-mobile-app](#open-aquarium-mobile-app)
+
 ## Projects
 
 ### open-aquarium.github.io
