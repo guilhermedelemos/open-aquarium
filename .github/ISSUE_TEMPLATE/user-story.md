@@ -4,7 +4,7 @@ about: User stories are short, simple descriptions of a feature told from the pe
   of the person who desires the new capability, usually a user or customer of the
   system.
 title: User story
-labels: user story
+labels: 'user story, priority: low, status: awaiting triage'
 assignees: ''
 
 ---
@@ -16,6 +16,9 @@ As a **type of user**, I want **some goal** so that **some reason**.
 
 * Item 1
 * Item 2
+
+# Definition of Ready
+1. Triage done
 
 # Definition of Done
 
