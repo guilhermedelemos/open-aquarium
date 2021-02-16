@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+* [Opening new issues](#opening-new-issues)
 * [Projects](#projects)
    * [open-aquarium.github.io](#open-aquarium.github.io)
    * [open-aquarium](#open-aquarium)
@@ -12,6 +13,14 @@
    * [open-aquarium-landing-page](#open-aquarium-landing-page)
    * [open-aquarium-customer-facing](#open-aquarium-customer-facing)
    * [open-aquarium-mobile-app](#open-aquarium-mobile-app)
+
+## Opening new issues
+
+New issues must have a label, a milestone and a project. Use the following links to create new issues.
+
+* [Bug](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=bug&template=bug_report.md&title=Bug+title&milestone=Backlog&projects=open-aquarium/1)
+* [Feature request](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=Feature+title&milestone=Backlog&projects=open-aquarium/1)
+* [User story](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=user+story&template=user-story.md&title=User+story&milestone=Backlog&projects=open-aquarium/1)
 
 ## Projects
 
