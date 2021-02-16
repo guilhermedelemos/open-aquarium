@@ -18,9 +18,9 @@
 
 New issues must have a label, a milestone and a project. Use the following links to create new issues.
 
-* [Bug](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=bug&template=bug_report.md&title=Bug+title&milestone=Backlog&projects=open-aquarium/1)
-* [Feature request](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=Feature+title&milestone=Backlog&projects=open-aquarium/1)
-* [User story](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=user+story&template=user-story.md&title=User+story&milestone=Backlog&projects=open-aquarium/1)
+* [Bug](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=bug%2C+priority%3A+low%2C+status%3A+awaiting+triage&template=bug_report.md&title=Bug+title&milestone=Backlog&projects=open-aquarium/1)
+* [Feature request](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=priority%3A+low%2C+status%3A+awaiting+triage%2C+goal%3A+addition&template=feature_request.md&title=Feature+title&milestone=Backlog&projects=open-aquarium/1)
+* [User story](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=user+story%2C+priority%3A+low%2C+status%3A+awaiting+triage&template=user-story.md&title=User+story&milestone=Backlog&projects=open-aquarium/1)
 
 ## Projects
 
