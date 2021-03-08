@@ -1,5 +1,7 @@
 # Open Aquarium
 
+[Project Management](https://github.com/orgs/open-aquarium/projects/1) | [Issues](https://github.com/open-aquarium/open-aquarium/issues) | [Discussions](https://github.com/open-aquarium/open-aquarium/discussions)
+
 ## Table of Contents
 
 * [Opening new issues](#opening-new-issues)
