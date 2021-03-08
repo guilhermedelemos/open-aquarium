@@ -3,9 +3,9 @@
 [:hourglass_flowing_sand: Project Management](https://github.com/orgs/open-aquarium/projects/1) | 
 [:bangbang: Issues](https://github.com/open-aquarium/open-aquarium/issues) | 
 [:loudspeaker: Discussions](https://github.com/open-aquarium/open-aquarium/discussions) | 
-[:beetle: Report a Bug](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=bug%2C+priority%3A+low%2C+status%3A+awaiting+triage&template=bug_report.md&title=Bug+title&milestone=Backlog&projects=open-aquarium/1) | 
+[:beetle: Report a Bug](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=type:%20bug%2C+priority%3A+low%2C+status%3A+awaiting+triage&template=bug_report.md&title=Bug+title&milestone=Backlog&projects=open-aquarium/1) | 
 [:bulb: Request a Feature](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=priority%3A+low%2C+status%3A+awaiting+triage%2C+goal%3A+addition&template=feature_request.md&title=Feature+title&milestone=Backlog&projects=open-aquarium/1) | 
-[:zap: Create an User story](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=user+story%2C+priority%3A+low%2C+status%3A+awaiting+triage&template=user-story.md&title=User+story&milestone=Backlog&projects=open-aquarium/1)
+[:zap: Create an User story](https://github.com/open-aquarium/open-aquarium/issues/new?assignees=&labels=type:%20user+story%2C+priority%3A+low%2C+status%3A+awaiting+triage&template=user-story.md&title=User+story&milestone=Backlog&projects=open-aquarium/1)
 
 ## Table of Contents
 
